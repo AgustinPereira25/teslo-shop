@@ -27,7 +27,7 @@ http://localhost:3000/api/seed
 
 ```
 
-# Next.js OpenJira App (English)
+# Next.js TesloShop App (English)
 In order to run localhost we need database
 ...
 
